@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. patata
+    1. una patata
+    2. dos patatas
+    3. tres patatas
+* Hola
+  * Adiós 
